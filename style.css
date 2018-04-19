@@ -1,4 +1,8 @@
 
+body {
+	background-image: url(images/bitmap.png);
+}
+
 * {
 	margin: 0;
 	padding: 0;
@@ -18,7 +22,7 @@
 }
 
 .serif, h1, h2, h3, h4, h5, h6, .legend, li {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Book Antiqua", "Times New Roman", Times, serif;
 }
 
 .sans-serif, p {
@@ -59,7 +63,7 @@
 }
 
 .photos-h {
-	width: 50%;
+	width: 45%;
 	border: 2px dotted black;
 	border-radius: 1%;
 	padding: 5px;
